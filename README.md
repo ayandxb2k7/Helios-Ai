@@ -122,6 +122,8 @@ Coming Soon
 Computer Science Undergraduate  
 BITS Pilani Dubai Campus
 
+DEPLOYED LINK  - https://helios-ai-sjrv.vercel.app/dashboard
+
 GitHub: https://github.com/ayandxb2k7
 
 Portfolio: https://ayan-portfolio.f20250376.workers.dev/
